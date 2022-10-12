@@ -1,0 +1,7 @@
+Quais os planetas do sistema solar?
+
+a) Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+b) Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus
+c) Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+d) Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus
+e) Terra, Vênus, Saturno, Júpiter, Marte, Netuno, Mercúrio

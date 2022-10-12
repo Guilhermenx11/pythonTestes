@@ -1,0 +1,7 @@
+Qual o número mínimo de jogadores numa partida de futebol?
+
+a) 8
+b) 10
+c) 9
+d) 5
+e) 7

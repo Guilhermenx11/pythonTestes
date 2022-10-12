@@ -1,0 +1,7 @@
+Que animal gruguleja?
+
+a) o pavão
+b) a garça
+c) o papagaio
+d) a cacatua
+e) o peru
